@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is LJ. I am passionate about applying data science to economic analysis and public policy. I develop scripts to increase data accessibility and help expedite the collection of evidence. I primarily program in Python and R. I am also proficient in MATLAB and STATA. My research interests are Macroeconomics, Political Economy, and Applied Data Science.
+My name is LJ. I am passionate about applying data science in economic analysis to foster evidence-based policy-making. I develop scripts to increase data accessibility and help expedite the collection of evidence. I primarily program in Python and R. I am also proficient in MATLAB and STATA. My research interests are Macroeconomics, Political Economy, and Applied Data Science.
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
