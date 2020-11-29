@@ -9,6 +9,13 @@ My name is LJ. I am passionate about applying data science to foster evidence-dr
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
+## Specifications
+| *Name \ Familiarity* | High | Medium | Low |
+| --------------- | --------------- | --------------- | ------------- |
+| **Programming Languages & Software** | Python, R | MATLAB, LaTeX | STATA |
+| **Languages** | Filipino, English | French, Spanish | Ilocano |
+| **Other interests** | Macroeconomics, Political Economy | Data Science | Economic Forecasting |
+
 <!--
 **lj-valencia/lj-valencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
