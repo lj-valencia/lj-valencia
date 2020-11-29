@@ -2,17 +2,19 @@
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <div align="left">
   
-### Hello there! 👋
+## Hello there! 👋
 
 ### About me
 My name is LJ. I am passionate about applying data science to foster evidence-driven public policy. I develop scripts to increase data accessibility and help expedite the collection of evidence. I primarily program in Python and R. I am also proficient in MATLAB and STATA. My research interests are Macroeconomics, Political Economy, and Applied Data Science.
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
-## Specifications
+### Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Programming Languages & Software** | Python, R | MATLAB, LaTeX | STATA |
+| **Python Packages** | Pandas | NumPy, Matplotlib | Selenium, BeautifulSoup |
+| **R Packages** | Tidyverse | cansim |  |
 | **Languages** | Filipino, English | French, Spanish | Ilocano |
 | **Other interests** | Macroeconomics, Political Economy | Data Science | Economic Forecasting |
 
