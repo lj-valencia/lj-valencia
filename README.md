@@ -4,7 +4,8 @@
   
 ## Hello there! 👋
 [![Linkedin: lj-valencia](https://img.shields.io/badge/lj--valencia-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lj-valencia)
-                                                                                              
+[![Twitter: lj-valencia](https://img.shields.io/badge/SoyLeroy-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/SoyLeroy)
+
 ### About me
 My name is LJ. I am passionate about applying data science and economics to foster evidence-driven public policy. I develop scripts to increase data accessibility and help expedite the collection of evidence. I also apply economics to help inform policy direction.
 
