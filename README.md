@@ -11,6 +11,8 @@ My name is LJ. I am passionate about applying data science and economics to fost
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
+For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
+
 ### Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
