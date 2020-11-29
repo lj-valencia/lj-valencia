@@ -5,7 +5,7 @@
 ## Hello there! 👋
 
 ### About me
-My name is LJ. I am passionate about applying data science and economics to foster evidence-driven public policy. I develop scripts to increase data accessibility and help expedite the collection of evidence. 
+My name is LJ. I am passionate about applying data science and economics to foster evidence-driven public policy. I develop scripts to increase data accessibility and help expedite the collection of evidence. I also apply economics to help inform policy direction.
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
