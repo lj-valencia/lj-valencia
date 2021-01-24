@@ -7,7 +7,7 @@
 [![Twitter: lj-valencia](https://img.shields.io/badge/SoyLeroy-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/SoyLeroy)
 
 ### About me
-My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the University of Alberta. I am passionate about applying data science and economics to inform and foster evidence-driven public policy. My coding activities involve developing scripts in Python and R to analyze, manipulate and increase data accessibility.
+My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the University of Alberta. I am passionate about applying data science and economics to foster evidence-driven public policy. I write code in Python and R. I have significant familiarity with MATLAB and LaTeX. I have some training and background in STATA as well. 
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
