@@ -12,7 +12,7 @@ My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the U
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 
 ### Specifications
-| *Name | High |
+| *Subject | *Name |
 | --------------- | --------------- | 
 | **Programming Languages** | Python, R, MATLAB, LaTeX, SQL |
 | **Software** | STATA, Hugo, CSS, HTML | 
