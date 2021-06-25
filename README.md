@@ -10,3 +10,4 @@ I graduated from the University of Alberta with a Bachelor of Arts (Honors) in E
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
+</div>
