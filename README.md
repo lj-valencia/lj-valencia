@@ -2,6 +2,7 @@
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
 <div align="left">
+  
 ## Hello there! My name is LJ Valencia. 👋
 [![Linkedin: lj-valencia](https://img.shields.io/badge/lj--valencia-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lj-valencia)
 [![Twitter: lj-valencia](https://img.shields.io/badge/SoyLeroy-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/SoyLeroy)
