@@ -12,12 +12,12 @@ My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the U
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 
 ### Specifications
-| *Name \ Familiarity* | High | Medium | Low |
-| --------------- | --------------- | --------------- | ------------- |
-| **Programming Languages** | Python, R | MATLAB, LaTeX | SQL |
-| **Software** |  | Hugo, CSS, HTML | STATA |
-| **Languages** | Filipino, English | French, Spanish | Ilocano |
-| **Research interests** | Macroeconomics, Political Economy | Data Science | Computational Economics |
+| *Name | High |
+| --------------- | --------------- | 
+| **Programming Languages** | Python, R, MATLAB, LaTeX, SQL |
+| **Software** | STATA, Hugo, CSS, HTML | 
+| **Languages** | Filipino, English, French, Spanish, Ilocano |
+| **Research interests** | Macroeconomics, Political Economy, Applied Data Science, Computational Economics |
 
 <!--
 **lj-valencia/lj-valencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
