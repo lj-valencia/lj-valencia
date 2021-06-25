@@ -7,20 +7,17 @@
 [![Twitter: lj-valencia](https://img.shields.io/badge/SoyLeroy-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/SoyLeroy)
 
 ### About me
-My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the University of Alberta. I am passionate about applying data science and economics to foster evidence-driven public policy. I write code in Python and R. I have significant familiarity with MATLAB and LaTeX. I have some training and background in STATA as well. 
-
-I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
+My name is LJ. I graduated with a Bachelor of Arts (Honors) Economics from the University of Alberta. I am passionate about applying data science and economics to foster evidence-based policies. I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 
 ### Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Programming Languages & Software** | Python, R | MATLAB, LaTeX | STATA |
-| **Python Packages** | Pandas | NumPy, Matplotlib | Selenium, BeautifulSoup |
-| **R Packages** | Tidyverse | glmnet, cansim | kable, stargazer |
+| **Programming Languages** | Python, R | MATLAB, LaTeX | SQL |
+| **Software** |  | Hugo, CSS, HTML | STATA |
 | **Languages** | Filipino, English | French, Spanish | Ilocano |
-| **Other interests** | Macroeconomics, Political Economy | Data Science | Economic Forecasting |
+| **Research interests** | Macroeconomics, Political Economy | Data Science | Computational Economics |
 
 <!--
 **lj-valencia/lj-valencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
