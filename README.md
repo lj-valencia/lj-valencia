@@ -14,10 +14,10 @@ For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 ### Specifications
 | **Subject** | **Name** |
 | --------------- | --------------- | 
-| **Programming Languages** | Python, R, MATLAB, LaTeX, SQL |
-| **Software** | STATA, Hugo, CSS, HTML | 
-| **Languages** | Filipino, English, French, Spanish, Ilocano |
-| **Research interests** | Macroeconomics, Political Economy, Applied Data Science, Computational Economics |
+  | **Programming Languages** | <p>Python, R, MATLAB</p>, <p>LaTeX, & SQL</p> |
+| **Software** | <p>STATA, Hugo, CSS, & HTML</p> | 
+| **Languages** | Filipino, English, French, Spanish, & Ilocano |
+| **Research interests** | <p>Macroeconomics, Political Economy,</p><p> Applied Data Science, & Computational Economics</p> |
 
 <!--
 **lj-valencia/lj-valencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
