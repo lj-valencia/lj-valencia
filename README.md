@@ -2,7 +2,7 @@
   
 ## Hello there! My name is LJ Valencia. 👋
 [![Linkedin: lj-valencia](https://img.shields.io/badge/lj--valencia-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lj-valencia)
-[![Twitter: lj-valencia](https://img.shields.io/badge/SoyLeroy-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/SoyLeroy)
+[![Twitter: lj-valencia](https://img.shields.io/badge/LJValenc1a-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/LJValenc1a)
   
 ## About me
 I graduated from the University of Alberta with a Bachelor of Arts (Honors) in Economics with a minor in Political Science. 
