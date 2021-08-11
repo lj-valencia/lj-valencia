@@ -7,6 +7,8 @@
 ## About me
 I graduated from the University of Alberta with a Bachelor of Arts (Honors) in Economics with a minor in Political Science. 
   
+My research interests focus on macroeconomics, political economy, data science, and computational economics.
+  
 I am curious about how political institutions and the economy influence each other and the application of computational methods and data science to analyze and understand economic phenomena.
 
 I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
