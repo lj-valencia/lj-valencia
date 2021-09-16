@@ -9,9 +9,11 @@ I graduated from the University of Alberta with a Bachelor of Arts (Honors) in E
   
 My research interests focus on macroeconomics, political economy, data science, and computational economics.
   
-I am curious about how political institutions and the economy influence each other and the application of computational methods and data science to analyze and understand economic phenomena.
+I am curious about the macroeconomy, how political institutions and the economy influence each other, and the application of computational methods and data science to analyze and understand economic phenomena. 
+ 
+Shortly after completing my studies at the University of Alberta, I worked at [Western Economic Diversification Canada (WD/DEO)](https://www.wd-deo.gc.ca/eng/home.asp), now called [Prairies Economic Development Canada](https://www.canada.ca/en/prairies-economic-development.html). 
 
-I currently work at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
+I joined the [Bank of Canada](https://www.bankofcanada.ca/) as a Research Assistant near the end of August 2021. 
 
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 </div>
