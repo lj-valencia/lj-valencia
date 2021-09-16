@@ -7,7 +7,7 @@
 ## About me
 I graduated from the University of Alberta with a Bachelor of Arts (Honors) in Economics with a minor in Political Science. 
   
-My research interests focus on macroeconomics, political economy, data science, and computational economics.
+My research interests focus on macroeconomics, political economy, computational economics, and data science.
   
 I am curious about the macroeconomy, how political institutions and the economy influence each other, and the application of computational methods and data science to analyze and understand economic phenomena. 
  
