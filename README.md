@@ -7,9 +7,9 @@
 ## About me
 I graduated from the University of Alberta with a Bachelor of Arts (Honors) in Economics with a minor in Political Science. 
   
-My research interests focus on macroeconomics, computational economics, political economy, and data science.
+My research interests focus on time-series econometrics, forecasting, and empirical macroeconomics.
   
-I am curious about the macroeconomy and the application of computational methods and data science to analyze and understand economic phenomena.
+I am interested in the application of machine learning to problems related to macroeconomic forecasting and time-series econometrics. Furthermore, I am interested in the software development of tools relevant to macroeconomic analysis.
  
 Shortly after completing my studies at the University of Alberta, I worked as a Junior Economist at [Western Economic Diversification Canada (WD/DEO)](https://www.wd-deo.gc.ca/eng/home.asp), now called [Prairies Economic Development Canada](https://www.canada.ca/en/prairies-economic-development.html). 
 
